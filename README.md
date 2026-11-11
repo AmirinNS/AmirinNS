@@ -30,7 +30,11 @@ Coming soon: a Flask + MongoDB trading journal, stock screener and stock-market 
 
 ### E-learning
 
-Coming soon: a printable math worksheet generator for Malaysian primary school kids, and more.
+| Project | What it is |
+| --- | --- |
+| [cetak-kira](https://github.com/AmirinNS/cetak-kira) | Free printable A4 math worksheets for Malaysian primary school kids (Tahun 1 to 3) with answer keys. Flask web app and CLI, Malay and English, ReportLab PDFs, 260+ tests. |
+
+More coming: a video hosting service and a course platform.
 
 ### Other
 
