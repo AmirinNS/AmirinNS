@@ -34,7 +34,7 @@ Most of my professional work lives in private company repositories. The public p
 
 | Project | What it is |
 | --- | --- |
-| [cetak-kira](https://github.com/AmirinNS/cetak-kira) | Free printable A4 math worksheets for Malaysian primary school kids (Tahun 1 to 3) with answer keys. Flask web app and CLI, Malay and English, ReportLab PDFs, 260+ tests. |
+| [cetak-pintar](https://github.com/AmirinNS/cetak-pintar) | Free printable A4 worksheets for Malaysian primary school kids, with answer keys. Math for Tahun 1 to 3, plus alphabet tracing, missing-letter and matching sheets. Flask web app and CLI, Malay and English, ReportLab PDFs, 600+ tests. |
 
 More coming: a video hosting service and a course platform.
 
