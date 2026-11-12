@@ -43,3 +43,7 @@ More coming: a video hosting service and a course platform.
 | Project | What it is |
 | --- | --- |
 | [music-metadata-manager](https://github.com/AmirinNS/music-metadata-manager) | PyQt5 app for video-to-MP3 conversion and bulk ID3 tag editing. |
+
+## Outside software
+
+I build and refurbish PCs and laptops, then resell them. That means diagnosing faults, swapping parts, upgrading RAM and storage, and reinstalling and tuning the OS. Rated 5.0 from 20 reviews [on Carousell](https://www.carousell.com.my/u/amirinns/).
