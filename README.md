@@ -26,7 +26,9 @@ Most of my professional work lives in private company repositories. The public p
 
 ### Stock market trading
 
-Coming soon: a Flask + MongoDB trading journal, stock screener and stock-market game.
+| Project | What it is |
+| --- | --- |
+| [tradebook](https://github.com/AmirinNS/tradebook) | Trading journal and market desk for Bursa Malaysia. FIFO realized P/L with Bursa fee breakdowns, stock charts with moving averages, RSI and MACD, a sector and technical screener, 8 lessons on indicators and trading costs, and a stock-market tycoon game. Flask + MongoDB, 500+ tests. |
 
 ### E-learning
 
