@@ -10,7 +10,7 @@ Python web developer in Kajang, Malaysia. I work in three domains:
 
 - **Backend:** Python, Flask, Bottle, MongoDB (PyMongo), REST APIs, background jobs, uv
 - **Frontend:** Bootstrap 5, Jinja2, vanilla JavaScript, Chart.js, Lightweight Charts, webpack, Parcel, gulp
-- **Infrastructure:** Docker, Linux servers, KVM, VirtualBox, VMware, Nginx, Ansible, and a homelab I run myself
+- **Infrastructure:** Linux cloud servers on DigitalOcean and AWS (EC2, S3), Docker, Nginx, Ansible, KVM, VirtualBox, VMware, and a homelab I run myself
 - **Also:** TypeScript and Electron
 
 Most of my professional work lives in private company repositories. The public projects below are my own.
